@@ -13,7 +13,7 @@ function Footer(){
                 <li><a href="">Tips</a></li>
             </ul>
         </nav>
-        <p>&copy; 2013 Valet Industries, Inc</p>
+        <p className="copyright">&copy; 2013 Valet Industries, Inc</p>
     </footer>
     )
 }
