@@ -6,9 +6,6 @@ Watch live version of this html page here [HTML/CSS Layout Live](https://homdaha
 
 Here is the live version of react  [React Layout Live](https://leafy-klepon-a5ea9c.netlify.app/)
 
-https://leafy-klepon-a5ea9c.netlify.app/
-
-
 ## Project Overview
 
 The Fashion Blog project is a demonstration of using React to build a web application that mimics a provided design mockup. This project showcases the ability to translate static designs into dynamic web pages, utilizing React components for structured and maintainable code.
