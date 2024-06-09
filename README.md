@@ -2,6 +2,11 @@
 
 This project is a React application created based on a provided mockup. The objective was to closely replicate the design and layout as specified in the given mockup, using React to bring the design to life.
 This project first started with this HTML/CSS layout. Here is the link: [HTML/CSS Layout](https://github.com/homdahal997/Fashion-Blog-Html_CSS).
+Watch live version of this html page here [HTML/CSS Layout Live](https://homdahal.me/Fashion-blog-html-css/)
+
+Here is the live version of react  [React Layout Live](https://leafy-klepon-a5ea9c.netlify.app/)
+
+https://leafy-klepon-a5ea9c.netlify.app/
 
 
 ## Project Overview
@@ -33,7 +38,7 @@ To view the project:
 2. Clone or download the project repository to your local machine.
 3. Navigate to the project directory in your terminal.
 4. Run `npm install` to install the necessary dependencies.
-5. Run `npm start` to start the development server.
+5. Run `npm run dev` to start the development server.
 6. Open your web browser and go to `http://localhost:5173` to view the project.
 
 ## Technologies Used
